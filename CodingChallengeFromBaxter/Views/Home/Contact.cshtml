@@ -1,0 +1,107 @@
+﻿@{
+    ViewBag.Title = "";
+}
+<h2>@ViewBag.Title</h2>
+<link href="~/Content/custom-css/contact-us.css" rel="stylesheet" />
+
+
+<div class="container-fluid">
+    <div class="col-md-8 mx-auto">
+
+        <div class="card">
+
+            <div class="card-header text-center" id="headerText">
+                CONTACT US
+            </div>
+
+            <div class="card-body">
+
+                <h5 class="card-title">Please use the form below to contact us.</h5>
+
+
+                <form id="contactUsForm" autocomplete="off">
+
+                    <div class="col-md-6">
+
+                        <div class="form-group">
+
+                            <label>How can we help?</label>
+                            <select name="reasonForContacting" required="required" class="form-control">
+                                <option selected value="">--Please select--</option>
+                                <option value="I need help hiring">I need help hiring</option>
+                                <option value="I have a question about a role">I have a question about a role</option>
+                                <option value="Something else">Something else</option>
+                            </select>
+
+                        </div>
+
+                        <div class="form-group">
+                            <label>Full Name</label>
+                            <input name="fullName" required class="form-control" />
+                        </div>
+
+                        <div class="form-group">
+                            <label>Email Address</label>
+                            <input type="email" name="emailAddress" required class="form-control text-center" />
+                        </div>
+
+
+                        <div class="form-group">
+                            <label>Phone</label>
+                            <input name="phoneNumber" required class="form-control" id="phoneNumber" />
+                        </div>
+
+                        <div class="form-group">
+                            <label>Message</label>
+                            <textarea name="message" required="" class="form-control" id="message" rows="2"></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <button type="submit" id="btnSubmit" class="btn btn-success float-left">Get in touch</button>
+                        </div>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+@*pop up modal to show the user on submitting th contact us form*@
+
+<div class="modal" tabindex="-1" role="dialog" id="confirmationModal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 id="title" class="modal-title"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p id="modalBody"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onclick="redirectToHomePage()">OK</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section scripts
+{
+    @*<script src="~/Scripts/jquery-3.4.1.js"></script>*@
+    <script src="~/customjquery/processContactUsForm.js"></script>
+}

@@ -1,0 +1,6 @@
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.Entities\bin\Debug\CodingChallenge.Entities.dll
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.Entities\bin\Debug\CodingChallenge.Entities.pdb
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.Entities\obj\Debug\CodingChallenge.Entities.csprojAssemblyReference.cache
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.Entities\obj\Debug\CodingChallenge.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.Entities\obj\Debug\CodingChallenge.Entities.dll
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.Entities\obj\Debug\CodingChallenge.Entities.pdb

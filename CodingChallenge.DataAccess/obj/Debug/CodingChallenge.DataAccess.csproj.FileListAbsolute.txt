@@ -1,0 +1,17 @@
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.csprojAssemblyReference.cache
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.DataAccess.dll.config
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.DataAccess.dll
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.DataAccess.pdb
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.Entities.dll
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\CodingChallenge.Entities.pdb
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.csproj.CopyComplete
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.dll
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.pdb
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.Migrations.InitialMigration.resources
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.csproj.GenerateResource.cache
+C:\Users\sadik\source\repos\CodingChallengeFromBaxter\CodingChallenge.DataAccess\obj\Debug\CodingChallenge.DataAccess.Migrations.InitialMigration1.resources
